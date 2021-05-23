@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ProbandoClaseString",
+            "request": "launch",
+            "mainClass": "ProbandoClaseString",
+            "projectName": "Prueba-Java_b11420e"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
